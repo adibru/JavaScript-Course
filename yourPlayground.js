@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")({ sigint: true});
+
 console.log('hello world')
 console.log('Adria Brunner')
 
@@ -20,4 +22,4 @@ console.log('tip amount: ' + tipAmount)
 
 console.log('The ' + fruit + ' costs a total of: ' + totalAmount)
 
-// user input
+// user inputc
